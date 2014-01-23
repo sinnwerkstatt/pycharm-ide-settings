@@ -33,3 +33,7 @@ var $ROUTNAME$Router = Backbone.Router.extend({
 });
 
 ```
+
+# Use
+
+You can overwrite your own PyCharm settings under ``.PyCharm30/config/templates`` with the files from this repository.
